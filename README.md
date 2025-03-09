@@ -1,5 +1,4 @@
-#  🧑🏻‍💻 ```      Hello World!       ``` :earth_americas: <img src="https://github.com/user-attachments/assets/e3ac54c1-3260-4089-a558-6934e6e355a3" height="300px" align="right" alt="Gif animado">
-
+#  🧑🏻‍💻 ```      Hello World!       ``` :earth_americas: <img src="https://github.com/user-attachments/assets/2124bc7c-8c64-478d-b58f-40e10b7f85e4" height="300px" align="right" alt="Gif animado">
   Olá!   Sou um estudante em transição de área, migrando da área jurídica <br>
   para o universo da tecnologia.<br>
   Atualmente, curso Técnico em Desenvolvimento de Sistemas no Senai<br>
