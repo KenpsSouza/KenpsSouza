@@ -14,11 +14,11 @@
   <a href="mailto:kenpsrossi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
-    <span style="font-size: 8px; margin-right: 5px;">  :mag_right: </span>
+</div>
+<span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
+    Contador de visitas <span style="font-size: 8px; margin-right: 5px;">_ :mag_right: </span>
     <img src="https://profile-counter.glitch.me/KenpsSouza/count.svg" style="width: 140px;">
   </span>
-</div>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
 
 ###  🔸```Tecnologias```:notebook_with_decorative_cover:
