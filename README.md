@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/KenpsSouza">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenpsSouza&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=KenpsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"/>
+    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenpsSouza&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias"/>
+    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=KenpsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"/>
   </a>
 </div>
 
