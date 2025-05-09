@@ -4,7 +4,6 @@
   Engenharia da Computação na (Univesp).<br>
   Combino o aprendizado analítico do Direito com minha paixão por<br>
   soluções digitais, aplicando na prática os conhecimentos adquiridos.*
-  
 <div align="left">
   <a href="https://www.instagram.com/kenps.souza/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -21,6 +20,7 @@
   </span>
 </div>
 
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ###  🔸```Tecnologias```:notebook_with_decorative_cover:
 | 🔸 **HTML** <img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | :small_orange_diamond: **CSS** <img align="center" alt="CSS" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | 🔸 **JavaScript** <img align="center" alt="JS" height="30" width="30" src="https://img.icons8.com/?size=48&id=108784&format=png"> |🔸 **TypeScript** <img align="center" alt="Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  |  🔸 **Csharp** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  |  🔸 **Java** <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">  |
