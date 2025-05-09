@@ -16,7 +16,7 @@
   </a>
 </div>
 <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
-    Contador de visitas <span style="font-size: 8px; margin-right: 5px;">_ :mag_right: </span>
+    Visitas <span style="font-size: 8px; margin-right: 5px;"> :mag_right: </span>
     <img src="https://profile-counter.glitch.me/KenpsSouza/count.svg" style="width: 140px;">
   </span>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
