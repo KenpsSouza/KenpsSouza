@@ -1,9 +1,10 @@
 #  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: <img src="https://github.com/user-attachments/assets/2124bc7c-8c64-478d-b58f-40e10b7f85e4" height="250px" align="right" alt="Gif animado">
-   *Sou estudante em transição da área jurídica para tecnologia, cursando <br>
-  Técnico em Desenvolvimento de Sistemas no (Senai) e Bacharelado em <br>
-  Engenharia da Computação na (Univesp).<br>
-  Combino o aprendizado analítico do Direito com minha paixão por<br>
-  soluções digitais, aplicando na prática os conhecimentos adquiridos.*
+  &nbsp;&nbsp;&nbsp;&nbsp;*Sou estudante em transição da área jurídica para a tecnologia,<br>
+cursando Técnico em Desenvolvimento de Sistemas no ***Senai*** e <br>
+Bacharelado em Engenharia da Computação na ***Univesp***.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Combino o aprendizado analítico do Direito com minha paixão <br>
+por soluções digitais, aplicando na prática os conhecimentos <br>
+adquiridos tanto no curso técnico quanto na faculdade.*
 <div align="left">
   <a href="https://www.instagram.com/kenps.souza/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
